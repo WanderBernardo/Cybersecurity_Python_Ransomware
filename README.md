@@ -13,7 +13,7 @@ Objetivo é criar um Ransomware em Python.
 
  - https://github.com/WanderBernardo/Python_Decrypt_File
 
-### Como utilizar esse exemplo:
+### Como utilizando esse exemplo:
 
  - Após ter o acesso ao dispositivo. Incluir o arquivo Encrypt na pasta onde esta o arquivo;
  - Abrir esse arquivo em modo de edição e alterar no código o nome do arquivo para o nome do arquivo que você gostaria de encripytografar.
